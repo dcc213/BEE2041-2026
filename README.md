@@ -7,5 +7,11 @@
 
 [This is our course url](ELEurl.com)
 
+## An example of use
+In this course we will use Python, and example of code is below:
+```{python}
+print("hello world!")
+```
+
 ## License
 We will use the MIT License (make sure we add this later on)
